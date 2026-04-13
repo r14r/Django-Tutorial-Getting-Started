@@ -1,4 +1,4 @@
-# Working-with_Django
+# Django-Tutorial: Getting Started with Django
 
 
 ## Create Project
